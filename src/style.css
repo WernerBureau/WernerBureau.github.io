@@ -39,6 +39,11 @@ div.submenu a:hover {
     color:#bebebe;
 }
 
+div.submenu a:visited {
+    text-decoration: none;
+    color:#d0d0d0;
+}
+
 
 div.submenu {
     font-family: 'Raleway', sans-serif;
